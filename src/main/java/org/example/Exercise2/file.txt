@@ -1,0 +1,6 @@
+name age
+alicia 12
+carlo 34
+camille 24
+samantha 32
+denis 1
